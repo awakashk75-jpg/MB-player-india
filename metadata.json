@@ -1,0 +1,6 @@
+{
+  "name": "MB Player India",
+  "description": "Powerful offline media player with gesture controls, local file management, secret vault, audio booster, subtitle support, and smooth video playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
