@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MB Player India</string>
+    <string name="title_activity_main">MB Player India</string>
+    <string name="package_name">com.mbplayer.india</string>
+    <string name="custom_url_scheme">com.mbplayer.india</string>
+</resources>
